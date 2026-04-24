@@ -59,3 +59,8 @@ h2 {
     aspect-ratio: 16/9;
     object-fit: cover;
 }
+
+.nav-item {
+    color: yellow;
+    font-weight: bold;
+}
