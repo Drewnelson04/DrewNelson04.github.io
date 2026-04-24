@@ -6,9 +6,6 @@
 
 
 
-
-
-
 /* Hero Section */
 .hero-section {
     background: url(../images/bluecat.webp);
@@ -36,7 +33,7 @@
     height: 300px;
     object-fit: cover;
     border-radius: 0;
-
+    /* padding: 1em; */
 }
 
 h2 {
