@@ -8,7 +8,9 @@
 
 /* Hero Section */
 .hero-section {
-    background: url(../images/bluecat.webp);
+    background: url(../images/MyPortfolio.webp);
+    background-size: cover;
+
     height: 70em;
     display: flex;
     align-items: center;
@@ -61,6 +63,20 @@ h2 {
 }
 
 .nav-item {
-    color: yellow;
+    color: white;
     font-weight: bold;
+    padding: .5em;
+}
+
+.nav-item:hover {
+    color: black;
+}
+
+
+body .Contact-card{
+    background-color: blue;
+}
+
+footer .nav-item {
+    color: black;
 }
